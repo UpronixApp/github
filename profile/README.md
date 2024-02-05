@@ -8,8 +8,9 @@ Upronix bietet eine einfach zu bedienende Status-Seite, um den Status Ihrer Dien
 ## Demo
 Sie können die Funktionen der Status-Seite in der Demoversion unter [demo.upronix.page](https://demo.upronix.page) testen.
 
-## Weitere Links
+## Other Links
 * **Website:** https://upronix.com
 * **Dashboard:** https://upronix.com/dashboard
 * **Demo:** https://demo.upronix.page
-* **Kontakt:** [support@upronix.com](mailto:support@upronix.com)
+* **Contact:** [contact@upronix.com](mailto:contact@upronix.com)
+* **Support:** [support@upronix.com](mailto:support@upronix.com)
