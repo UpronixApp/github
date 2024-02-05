@@ -12,4 +12,4 @@ Sie können die Funktionen der Status-Seite in der Demoversion unter [demo.upron
 * **Website:** https://upronix.com
 * **Dashboard:** https://upronix.com/dashboard
 * **Demo:** https://demo.upronix.page
-* **Kontakt:** [support@upronix.com](support@upronix.com)
+* **Kontakt:** [support@upronix.com](mailto:support@upronix.com)
