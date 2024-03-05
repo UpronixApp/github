@@ -1,8 +1,14 @@
+
 # Upronix
-Upronix provides an easy-to-use status page to communicate the status of your services and systems. The page displays the current status of each service, as well as historical data and information about past incidents.
+Upronix is a comprehensive observability platform that provides a single pane of glass for monitoring, telemetry, and status pages. It helps you collect and visualize data from all your systems and applications, so you can quickly identify and resolve issues.
 
 ## Features
-* *Soon*
+- Uptime Monitoring
+- Status Pages
+- Incident Management
+
+## Support
+For support, email [support@upronix.com](mailto:support@upronix.com) or join our [Discord Server](https://upronix.com/link?discord).
 
 ## Demo
 You can test the functions of the status page in the demo version at [demo.upronix.page](https://demo.upronix.page).
