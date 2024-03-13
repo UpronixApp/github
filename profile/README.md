@@ -15,7 +15,7 @@ You can test the functions of the status page in the demo version at [demo.upron
 
 ## Other Links
 * **Website:** https://upronix.com
-* **Dashboard:** https://upronix.com/dashboard
+* **Dashboard:** https://dashboard.upronix.com
 * **Demo:** https://demo.upronix.page
 * **Contact:** [contact@upronix.com](mailto:contact@upronix.com)
 * **Support:** [support@upronix.com](mailto:support@upronix.com)
